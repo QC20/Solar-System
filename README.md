@@ -2,6 +2,8 @@
 
 This repository contains a simple HTML and CSS code snippet that creates an animated representation of the solar system. It displays the sun, Earth, and a moon orbiting around it, along with a larger planet resembling Jupiter.
 
+https://github.com/QC20/Solar-System/assets/36644388/b4281bc9-f147-4d8f-947f-635c84e013eb
+
 ## Structure
 
 The code is structured as follows:
